@@ -1,6 +1,6 @@
-const rl = require('./rl');
+const rl = require("./rl");
 const { missoes, missoesConcluidas } = require("./missoes");
-const exibirMenu = require('./exibirMenu');
+const exibirMenu = require("./exibirMenu");
 
 function filtrarPorPrioridade(exibirMenu, missoes) {
   console.log("\n======= FILTRAR POR PRIORIDADE =======\n");

@@ -1,7 +1,6 @@
-const rl = require('./rl');
+const rl = require("./rl");
 const { missoes, missoesConcluidas } = require("./missoes");
-const exibirMenu = require('./exibirMenu');
-
+const exibirMenu = require("./exibirMenu");
 
 function adicionarMissao(exibirMenu, missoes) {
   console.log("\n======= CADASTRO DE MISSÃO =======\n");

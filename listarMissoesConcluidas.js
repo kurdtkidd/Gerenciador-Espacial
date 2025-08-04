@@ -1,5 +1,5 @@
 const { missoes, missoesConcluidas } = require("./missoes");
-const exibirMenu = require('./exibirMenu');
+const exibirMenu = require("./exibirMenu");
 
 function listarMissoesConcluidas(exibirMenu, missoesConcluidas) {
   console.log("\n======= LISTAR MISSÕES CONCLUÍDAS =======\n");

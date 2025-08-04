@@ -1,7 +1,7 @@
 const missoes = [];
-const missoesConcluidas = []; 
+const missoesConcluidas = [];
 
 module.exports = {
-    missoes,
-    missoesConcluidas
-  };
+  missoes,
+  missoesConcluidas,
+};

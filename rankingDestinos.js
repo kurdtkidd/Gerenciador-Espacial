@@ -1,5 +1,5 @@
 const { missoes, missoesConcluidas } = require("./missoes");
-const exibirMenu = require('./exibirMenu');
+const exibirMenu = require("./exibirMenu");
 
 function rankingDestinos(exibirMenu, missoes) {
   console.log("\n======= RANKING DE DESTINOS =======\n");

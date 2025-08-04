@@ -1,6 +1,6 @@
-const rl = require('./rl')
+const rl = require("./rl");
 const { missoes, missoesConcluidas } = require("./missoes");
-const exibirMenu = require('./exibirMenu');
+const exibirMenu = require("./exibirMenu");
 
 function editarMissao(exibirMenu, missoes) {
   console.log("\n======= EDITAR MISSÃO =======\n");

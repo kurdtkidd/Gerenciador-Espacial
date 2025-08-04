@@ -1,3 +1,3 @@
-const exibirMenu = require('./exibirMenu');
+const exibirMenu = require("./exibirMenu");
 
 exibirMenu();

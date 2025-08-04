@@ -1,6 +1,6 @@
 const rl = require("./rl");
 const { missoes, missoesConcluidas } = require("./missoes");
-const exibirMenu = require('./exibirMenu');
+const exibirMenu = require("./exibirMenu");
 
 function listarPorTripulante(exibirMenu, missoes) {
   console.log("\n======= LISTAR MISSÕES POR TRIPULANTE =======\n");
